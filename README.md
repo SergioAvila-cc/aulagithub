@@ -1,4 +1,4 @@
 # aulagithub
 Aula de git hub do Professor Nelio Alves - yt
 
-Nothing to see here. Just basic leaning.
+Nothing to see here. Just basic learning.
